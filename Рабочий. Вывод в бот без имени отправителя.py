@@ -4,7 +4,7 @@ from telegram import Bot
 api_id = 00000000
 api_hash = "e185dbd4bd50b6a1f5640a0a50000000"
 phone = "+0000000000"
-bot_token = "7128578861:AAGq_MSwAo-YCcptQgOmuQD00000000000"  # Вставьте сюда токен вашего бота
+bot_token = "7128578861:AAGq_MSwAo-YCcptQgOmuQD##########"  # Вставьте сюда токен вашего бота
 
 # Создаем клиент Telegram
 client = TelegramClient('session_name', api_id, api_hash)
